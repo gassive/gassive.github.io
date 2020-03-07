@@ -5,8 +5,8 @@
 - Julia技巧分享 [texJuliaFAQ](https://gassive.github.io/texJuliaFAQ/ "study Julia using GitBook")
 - Julia编程：重写Matlab例题 [texJuliaCopyMatlab](https://gassive.github.io/texJuliaCopyMatlab "study Julia by repeating Matlab codes")
 - Julia编程：使用Julia学习数值计算
--- pde数值计算简介:从谱展开到有限差分
--- 非均匀网格数值算法:有限体积法，有限单元法，DG不连续伽辽金，谱元法
+  -- pde数值计算简介:从谱展开到有限差分
+  -- 非均匀网格数值算法:有限体积法，有限单元法，DG不连续伽辽金，谱元法
 
 ## Python编程相关
 - 深度学习实践：TensorFlow的安装配置
